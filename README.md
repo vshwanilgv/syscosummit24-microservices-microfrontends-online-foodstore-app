@@ -1,2 +1,1 @@
-# syscosummit24-microservices-microfrontends-online-foodstore-app
-Micro services and micro front end based Food Store App
+# Micro services and micro front end based Food Store App for Sysco Project Summit 2024
