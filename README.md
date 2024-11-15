@@ -20,4 +20,4 @@ Micro Frontends
 
 🔗 navbar micro frontend(ongoing) - https://github.com/vshwanilgv/navbar
 
-🔗 user micro frontend - (ongoing)
+🔗 user micro frontend - https://github.com/vshwanilgv/product-micro-frontend/tree/user
