@@ -6,7 +6,7 @@ Here you can find the backend services
 
   🔗 user services - https://github.com/vshwanilgv/user-service
 
-  🔗 cart services - (ongoing)
+  🔗 cart services - https://github.com/vshwanilgv/cart-service
 
 BFF Layer
  
