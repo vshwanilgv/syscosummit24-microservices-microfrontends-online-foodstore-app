@@ -14,10 +14,14 @@ BFF Layer
 
 Micro Frontends
 
-🔗  Root config - https://github.com/vshwanilgv/Root-Config
+🔗 Root config - https://github.com/vshwanilgv/Root-Config
 
-🔗  products micro frontend - https://github.com/vshwanilgv/product-micro-frontend
+🔗 products micro frontend - https://github.com/vshwanilgv/product-micro-frontend
 
-🔗 navbar micro frontend(ongoing) - https://github.com/vshwanilgv/navbar
+🔗 navbar micro frontend - https://github.com/vshwanilgv/navbar
 
 🔗 user micro frontend - https://github.com/vshwanilgv/product-micro-frontend/tree/user
+
+🔗 cart micro frontend - (ongoing)
+
+🔗 home micro frontend - (ongoing)
